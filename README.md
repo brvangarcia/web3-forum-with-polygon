@@ -1,6 +1,6 @@
-#web3 forum with polygon 
+#Web3 forum with polygon 
 
-Tutorial from pointer.gg
+Tutorial from pointer.gg running on Mumbai testnet.
 
 To use this repo:
 
